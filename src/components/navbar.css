@@ -1,0 +1,23 @@
+.container-fluid {
+    background-color: #cccccc;
+    background-image: linear-gradient(red, yellow, green);
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.navbar-brand {
+    color: black;
+    font-weight:bolder;
+    display:flex;
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+nav.navbar ul li a { 
+    color: rgb(6, 12, 0) !important;
+    text-transform: uppercase;
+    font-weight: 700;
+} 
+
